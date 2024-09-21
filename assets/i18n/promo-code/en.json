@@ -1,0 +1,6 @@
+{
+  "invalidPromoCode": "Invalid promo code",
+  "promoCodeExpired": "Promo code expired",
+  "promoNotFound": "promo is not found.",
+  "userNotFound": "user is not found."
+}

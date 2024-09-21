@@ -1,0 +1,9 @@
+{
+  "env": {
+    "NODE_ENV": "development"
+  },
+  "ext": "js,json",
+  "ignore": [".git", "node_modules/**/node_modules", "node_modules", "src/**/*.spec.ts", "src/**/domain/*"],
+  "watch": ["dist"],
+  "exec": "node dist/index.js"
+}

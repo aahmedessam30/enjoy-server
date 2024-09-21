@@ -1,0 +1,6 @@
+{
+  "invalidPromoCode": "رمز الكوبون غير صحيح",
+  "promoCodeExpired": "رمز الكوبون انتهى",
+  "promoNotFound": "الكوبون غير موجود",
+  "userNotFound": "المستخدم غير موجود"
+}

@@ -1,0 +1,13 @@
+{
+  "fetchedSuccess": "Fetched successfully",
+  "accountNotfound": "Account is not found",
+  "userNotFound": "User is not found",
+  "wrongPassword": "Wrong Password",
+  "notFoundAddress": "There are not Address yet !",
+  "invalidOTP": "Invalid OTP",
+  "currentPasswordNotMatch": "Current password not match",
+  "itIsTheSamePassword": "It's the same password",
+  "errorInOtp": "Error in OTP",
+  "numberIsAlreadyRegistered": "The number is already registered",
+  "invalidAutharization": "Invalid authorization"
+}

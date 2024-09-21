@@ -1,0 +1,39 @@
+{{#> layouts/base }}
+
+{{#*inline "hero-block"}}
+<tr>
+    <td valign="top" class="side title"
+        style="border-collapse: collapse;border: 0;margin: 0;padding: 20px;-webkit-text-size-adjust: none;color: #555559;font-family: Arial, sans-serif;font-size: 16px;line-height: 26px;vertical-align: top;background-color: white;border-top: none; padding-bottom: 50px;">
+        <table
+            style="font-weight: normal;border-collapse: collapse;border: 0;margin: 0;padding: 0;font-family: Arial, sans-serif;width: 100%;">
+            <tr>
+                <td class="sub-title"
+                    style="border-collapse: collapse;border: 0;margin: 0;padding: 0;padding-top:5px;-webkit-text-size-adjust: none;color: #555559;font-family: Arial, sans-serif;font-size: 18px;line-height: 29px;font-weight: bold;text-align: center;">
+                    <div class="mktEditable" id="intro_title">
+                        <!-- Sub title -->
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td class="head-title"
+                    style="border-collapse: collapse;border: 0;margin: 0;padding: 0;-webkit-text-size-adjust: none;color: #555559;font-family: Arial, sans-serif;font-size: 28px;line-height: 34px;font-weight: bold; text-align: center;padding-top: 1px;">
+                    <div class="mktEditable" id="main_title">رمز التحقق الخاص بك.</div>
+                </td>
+            </tr>
+            <tr>
+                <td class="text"
+                    style="border-collapse: collapse;border: 0;margin: 0;padding: 0;-webkit-text-size-adjust: none;color: #555559;font-family: Arial, sans-serif;font-size: 16px;line-height: 26px; text-align: center;padding-top: 20px;">
+                    <div class="mktEditable" id="main_text"> يُرجى استخدام رمز التحقق لمرة واحدة التالية للتحقق من هويتك</div>
+                </td>
+            </tr>
+            <tr>
+                <td class="text"
+                    style="border-collapse: collapse;border: 0;margin: 0;padding: 0;-webkit-text-size-adjust: none;color: #555559;font-family: Arial, sans-serif;font-size: 16px;line-height: 26px; text-align: center;padding-top: 20px;">
+                    <div class="mktEditable" id="main_text">{{otp}}</div>
+                </td>
+            </tr>
+        </table>
+    </td>
+</tr>{{/inline}}
+
+{{/layouts/base}}

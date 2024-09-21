@@ -1,0 +1,18 @@
+npm-debug.log
+yarn-error.log
+
+.env
+
+node_modules/
+
+# yarn.lock
+access.log
+images
+data
+yarn-error.log
+.DS_Store
+darkkom-firebase.json
+/darkkom-s
+darkkom-s.zip
+# /dist
+server.js

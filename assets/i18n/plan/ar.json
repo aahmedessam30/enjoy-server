@@ -1,0 +1,7 @@
+{
+  "planNotFound": "لم يتم العثور على الخطة.",
+  "ThereAreNotPlanYet": "لا توجد خطة بعد.!",
+  "userNotHavePlan": "المستخدم ليس لديه خطة",
+  "userHavePlan": "المستخدم لديه خطة",
+  "userNotHaveValidPlan": "المستخدم ليس لديه خطة صالحة"
+}

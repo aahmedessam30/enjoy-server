@@ -1,0 +1,13 @@
+{
+  "fetchedSuccess": "Fetched Successfully",
+  "accountNotfound": "الحساب غير موجود",
+  "userNotFound": "المستخدم غير موجود",
+  "wrongPassword": "كلمة المرور غير صحيحة",
+  "notFoundAddress": "العنوان غير موجود",
+  "invalidOTP": "الرمز غير صحيح",
+  "currentPasswordNotMatch": "كلمة المرور الحالية غير متطابقة",
+  "itIsTheSamePassword": "إنها نفس كلمة المرور",
+  "errorInOtp": "خطأ في الرمز",
+  "numberIsAlreadyRegistered": "الرقم مسجل سابقا",
+  "invalidAutharization": "خطأ في الرمز"
+}
